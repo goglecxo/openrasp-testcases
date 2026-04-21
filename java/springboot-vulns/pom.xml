@@ -160,9 +160,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.hibernate</groupId>
+			<groupId>org.hibernate.orm</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>5.0.5.Final</version>
+			<version>7.3.2.Final</version>
 		</dependency>
 		<!-- <dependency>
 			<groupId>org.hibernate</groupId>
